@@ -1,4 +1,4 @@
-On the Freedom of Choice
+1. On the Freedom of Choice
 
 
 
