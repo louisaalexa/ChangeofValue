@@ -1,0 +1,36 @@
+﻿‘A credit system that grows beyond sight, and which is yet a safe debt for the present requirements –– because all creditors do not require payment at one time –– constitutes a dangerous money power. To forbid this credit system must be a preliminary article of perpetual peace, because it must eventually entangle many innocent states in the inevitable bankruptcy.’
+– Immanuel Kant, Toward Perpetual Peace (1795)
+
+
+
+
+The Book Change of Value would not have been possible to write alone. To explain an epistemological masterpiece as the Bitcoin protocol it was needed to touch on a whole number of topics, reaching from politics, sociology, geography, linguistics, basic mathematical principles and cultural history, all the way to investment banking - all in which I would not dare to call myself an expert in. My sincere gratitude therefore goes out to all the people who have guided me along the way in understanding the significance of each aforementioned topic, and helped me to look at individual freedom in current society from all possible angles. Without you I would not be here today, still learning eagerly on how to maybe make this world a better place. This book is therefore written in the “we” format instead of “I”. 
+
+
+
+
+It is my hope that with this book I am able to take you along on the journey I have been fortunate enough to take for the past years of my life, so that from here on out, we can continue to learn, build and collaborate together on the arguably most important technological advancement of our time.  
+
+
+
+
+No man is an Island; We cannot win standing on our own.
+
+
+
+
+
+
+
+
+This book is dedicated to: 
+
+
+
+
+Joerg Platzer, Christian Rotzoll, Candle Hater, j32804, Thomas Mahmoud, Marie Kaufmann, Max Hillebrand, Wassim Alsindi, Chris Ellis, Ben Arc, Thomas Hunt, Theo Goodman, Freerk Lastname, and all the other small and big anonymous collaborators that have influenced the writings of this book over the years; You know who you are.*
+
+
+
+
+*This list is not written in any particular order.
