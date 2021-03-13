@@ -4,7 +4,7 @@
 
 
 
-The Book Change of Value would not have been possible to write alone. To explain an epistemological masterpiece as the Bitcoin protocol it was needed to touch on a whole number of topics, reaching from politics, sociology, geography, linguistics, basic mathematical principles and cultural history, all the way to investment banking - all in which I would not dare to call myself an expert in. My sincere gratitude therefore goes out to all the people who have guided me along the way in understanding the significance of each aforementioned topic, and helped me to look at individual freedom in current society from all possible angles. Without you I would not be here today, still learning eagerly on how to maybe make this world a better place. This book is therefore written in the “we” format instead of “I”. 
+The Book Change of Value would not have been possible to write alone. To explain an epistemological masterpiece as the Bitcoin protocol it was needed to touch on a whole number of topics, reaching from politics, sociology, geography, linguistics, basic mathematical principles and cultural history, all the way to investment banking - all in which I would not dare to call myself an expert in. My sincere gratitude therefore goes out to all the people who have guided me along the way in understanding the significance of each aforementioned topic, and helped me to look at individual freedom from all possible angles. Without you I would not be here today, still learning eagerly on how to maybe make this world a better place. This book is therefore written in the “we” format instead of “I”. 
 
 
 
