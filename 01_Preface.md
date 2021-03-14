@@ -1,4 +1,4 @@
-﻿“You should not assume because, you know, you do not have a background in economics or in law, that these issues are somehow too complex for you. They’re not complex at all, it’s very simple. It’s about power, and it’s about democracy.
+﻿“You should not assume because, you know, you do not have a background in economics or in law, that these issues are somehow too complex for you. They’re not complex at all, it’s very simple. It’s about power, and it’s about democracy."
 – Prof. Simon Johnson (2012)
 
 
